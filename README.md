@@ -1,5 +1,5 @@
 # FoxGooseBeanLogicGame
-Peer programming project simulating Duck Goose Bean Game - Stefen &amp; Funke 
+Peer programming project simulating Fox Goose Bean Game - Stefen &amp; Funke 
 
 More information about the semantics of the game:
 https://en.wikipedia.org/wiki/Fox,_goose_and_bag_of_beans_puzzle
