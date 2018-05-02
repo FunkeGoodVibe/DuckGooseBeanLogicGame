@@ -1,4 +1,4 @@
-# DuckGooseBeanLogicGame
+# FoxGooseBeanLogicGame
 Peer programming project simulating Duck Goose Bean Game - Stefen &amp; Funke 
 
 More information about the semantics of the game:
