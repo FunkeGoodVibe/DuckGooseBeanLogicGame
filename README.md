@@ -9,5 +9,4 @@ The application works, with no compilation issues.
 Image Detailing the semantics of the game:
 https://i.ytimg.com/vi/WAWAQQuyWCc/maxresdefault.jpg
 (Please see our resources folder to view the exact icons we used for this game)
-Please review our (Stefan & Funke's) code logic. (The .java files on the main project folder). Also please inspect our code for code cleanliness.
-
+Please review our (Stefan & Funke's) code logic. (The .java files on the main project folder). Also please inspect our code for code cleanliness. Download this video (22mb) https://github.com/FunkeGoodVibe/FoxGooseBeanLogicGame/blob/master/fox%20goose%20bean%20video%20demo.mov for a very short video demo.
